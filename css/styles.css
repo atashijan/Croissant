@@ -1,0 +1,24 @@
+body {
+  background: radial-gradient(
+    circle at 0% 0.5%,
+    rgb(241, 241, 242) 0.1%,
+    rgb(224, 226, 228) 100.2%
+  );
+  margin: 20px 50px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+p {
+  font-weight: 550;
+  opacity: 0.8;
+}
+
+footer a {
+  margin: auto 20px;
+  color: #2470a0;
+  font-weight: 550;
+}
